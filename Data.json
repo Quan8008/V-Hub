@@ -1,6 +1,7 @@
 {
     "Version": "3.3",
-    "Announcements": "VHub is no longer in the BETA. This is the full release of VHub! Execute the new GUI to view changelog. Anyway, Congratulations for bruhsmile for becoming a VHub Developer.",
+    "Announcements": "VHub is no longer in BETA. This is the full release of VHub! Execute the new GUI to view changelog. Anyway, Congratulations for bruhsmile for becoming a VHub Developer.",
+    "Executable": true,
     "ChatEnabled": true,
     "Credits": {
         "Owner": "Quan#0991",
