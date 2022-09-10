@@ -1,4 +1,4 @@
---credit does to HunterAPI on github
+--credits to HunterAPI on github
 --original repo: https://github.com/HunterAPI/EpikAPI
 local EpikAPI = {
 	Commands = {},
