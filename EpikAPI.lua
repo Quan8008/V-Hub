@@ -141,19 +141,7 @@ end
 FindFunctions.random = function(x)
 	return {x[math.random(1, #x)]}
 end
-FindFunctions.furthest = function(x)
-	local dist, z = 0, false
-	for _, v in next, x do
-		local x = v ~= ME and v.Character and EpikAPI.GetRoot(v.Character)
-		if x then
-			local e = ME:DistanceFromCharacter(x.Position)
-			if e and e > dist then
-				dist, z = e, v
-			end
-		end
-	end
-	return {z}
-end
+
 FindFunctions.FromName = function(x, e)
 	local z = {}
 	for _, v in next, x do
