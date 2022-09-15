@@ -1,12 +1,17 @@
 {
-    "Version": "3.3",
-    "Announcements": "VHub is no longer in BETA. This is the full release of VHub! Execute the new GUI to view changelog. Anyway, Congratulations for bruhsmile for becoming a VHub Developer.",
-    "Executable": true,
-    "ChatEnabled": true,
+    "Updates": {
+        "Version": "3.3",
+        "Announcements": "Congratulations for bruhsmile for becoming a VHub Developer."
+    },
+    "HubSettings": {
+        "Executable": true,
+        "ChatEnabled": false,
+        "FeedbacksEnabled": true
+    },
     "Credits": {
         "Owner": "Quan#0991",
         "Others": {
-            "Dev1": "Mole#8833",
+            "Dev1": "Mole#8833", 
             "Dev2": "bruhsmile#3509",
             "Dev3": "RedCoat#5495"
         }
