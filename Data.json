@@ -1,7 +1,8 @@
 {
     "Updates": {
         "Version": "3.3",
-        "Announcements": "Congratulations for bruhsmile for becoming a VHub Developer."
+        "Announcements": "Congratulations for bruhsmile for becoming a VHub Developer.",
+        "isBeta": true
     },
     "HubSettings": {
         "Executable": true,
