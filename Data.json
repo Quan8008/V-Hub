@@ -10,16 +10,16 @@
         "FeedbacksEnabled": true
     },
     "Credits": {
-        "Owner": "Quan#0991",
+        "Owner": 871987887326003211,
         "Others": {
-            "Dev1": "Mole#8833", 
-            "Dev2": "bruhsmile#3509",
-            "Dev3": "RedCoat#5495"
+            "Dev1": 295929140455014401, 
+            "Dev2": 770297312793854033,
+            "Dev3": 935465178294808616
         }
     },
     "Webhooks": {
         "Execution": "62fdf2287907ab0a63d4e29b",
         "Feedback": "62fdf79d7907ab0a63d4e2c3",
-        "Chat": "uhhhhh"
+        "Chat": ":troll:"
     }
 }
