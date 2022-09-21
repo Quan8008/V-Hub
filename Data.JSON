@@ -6,7 +6,7 @@
     },
     "HubSettings": {
         "Executable": true,
-        "ChatEnabled": false,
+        "ChatEnabled": true,
         "FeedbacksEnabled": true
     },
     "Credits": {
