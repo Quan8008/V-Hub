@@ -8,6 +8,7 @@
         "Executable": true,
         "ChatEnabled": true,
         "FeedbacksEnabled": true
+        "DiscordInvite": "https://discord.gg/HRBUQyjtVF"
     },
     "Credits": {
         "Owner": 871987887326003211,
