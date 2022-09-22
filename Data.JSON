@@ -7,7 +7,7 @@
     "HubSettings": {
         "Executable": true,
         "ChatEnabled": true,
-        "FeedbacksEnabled": true
+        "FeedbacksEnabled": true,
         "DiscordInvite": "https://discord.gg/HRBUQyjtVF"
     },
     "Credits": {
