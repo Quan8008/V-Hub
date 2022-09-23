@@ -21,6 +21,7 @@
     "Webhooks": {
         "Execution": "62fdf2287907ab0a63d4e29b",
         "Feedback": "62fdf79d7907ab0a63d4e2c3",
-        "Chat": ":troll:"
+        "Chat": ":troll:",
+        "Share": "632def01485ea00594c7829c"
     }
 }
