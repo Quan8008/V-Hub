@@ -3,10 +3,10 @@
         "Version": "3.3",
         "Announcements": "Congratulations to bruhsmile for becoming a VHub Developer.",
         "isBeta": true,
-        "Key": "n"
+        "Key": "troll"
     },
     "HubSettings": {
-        "Executable": true,
+        "Executable": false,
         "ChatEnabled": false,
         "FeedbacksEnabled": true,
         "DiscordInvite": "HRBUQyjtVF",
