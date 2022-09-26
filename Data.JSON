@@ -6,7 +6,7 @@
         "Key": "troll"
     },
     "HubSettings": {
-        "Executable": false,
+        "Executable": true,
         "ChatEnabled": false,
         "FeedbacksEnabled": true,
         "DiscordInvite": "HRBUQyjtVF",
