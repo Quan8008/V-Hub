@@ -22,7 +22,7 @@
         }
     },
     "Webhooks": {
-        "Domain": "https://neko-hot.xyz/send/"
+        "Domain": "https://neko-hot.xyz/send/",
         "Execution": "62fdf2287907ab0a63d4e29b",
         "Feedback": "62fdf79d7907ab0a63d4e2c3",
         "Chat": ":troll:",
