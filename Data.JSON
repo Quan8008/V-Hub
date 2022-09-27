@@ -10,7 +10,8 @@
         "ChatEnabled": false,
         "FeedbacksEnabled": true,
         "DiscordInvite": "HRBUQyjtVF",
-        "Netless": "https://pastebin.com/raw/3FfXxBQ7"
+        "Netless": "https://pastebin.com/raw/3FfXxBQ7",
+        "KeyEnabled": true,
     },
     "Credits": {
         "Owner": "871987887326003211",
