@@ -2,12 +2,10 @@
     "Updates": {
         "Version": "3.85",
         "Announcements": "Congratulations to bruhsmile for becoming a VHub Developer.",
-        "isBeta": true,
         "Key": "WdpSib3Fd4ETPWq0qAqq"
     },
     "HubSettings": {
         "Executable": true,
-        "ChatEnabled": false,
         "FeedbacksEnabled": true,
         "DiscordInvite": "HRBUQyjtVF",
         "Netless": "https://pastebin.com/raw/3FfXxBQ7",
@@ -25,7 +23,6 @@
         "Domain": "https://neko-hot.xyz/send/",
         "Execution": "62fdf2287907ab0a63d4e29b",
         "Feedback": "62fdf79d7907ab0a63d4e2c3",
-        "Chat": ":troll:",
         "Share": "632def01485ea00594c7829c"
     }
 }
